@@ -13,7 +13,7 @@ import java.io.File;
  *
  * @author Jakub Rybicki <lansoftprogramming.com>
  */
-public class FileStatistics2 {
+public class FileStatistics2  dffjdf{
 
     /**
      * @param args the command line arguments
